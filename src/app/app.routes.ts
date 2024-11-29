@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './_pages/home/home.component';
 import { LoginComponent } from './_pages/login/login.component';
-import { ContatoComponent } from './components/contato/contato.component';
+import { ContatoComponent } from './componentes/contato/contato.component';
 import { MeetingComponent } from './_pages/meeting/meeting.component';
 import { DashboardComponent } from './_pages/dashboard/dashboard.component';
 import { SignupComponent } from './_pages/signup/signup.component';
